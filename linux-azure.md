@@ -1,21 +1,3 @@
- *Documentação Pessoal ADTsys*
----------------------------------------
-https://keepass.info/ > Configuração de senhas (salvas)
-
-# Acessos----------------------------
-
--DataDog - Monitoramento 
-
-Login: mateus.pereira@adtsys.com.br
-
-Password: Ma97cedo@cedo
-
-# Acessos----------------------------
-
--Azure Cloud
-Login: mateus.pereira@adtsys.com.br
-Login: Mateus.macedop@outlook.com
-Password: Ma97cedo@cedo
 
 # Comandos CMD----------------------------
 
