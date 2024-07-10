@@ -32,7 +32,7 @@ git brench = Verificar brench que voce está
 
 $ = usuario comum
 
-# = permissão de root
+. # = permissão de root
 
 ~ = home do usuario (/root)
 
@@ -98,7 +98,10 @@ uname = versão do SO
 
 lsblk = informações disco
 
-> rm -rf dpkg.log. < sempre verificar com outros analistas >
+rm -rf dpkg.log. < sempre verificar com outros analistas >
+
+-----------------------------------\\--------------------------------------
+
 
 # linux----limpar log LINUX / Problema no disco
 
