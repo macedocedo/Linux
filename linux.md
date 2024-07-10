@@ -102,31 +102,31 @@ lsblk = informações disco
 
 # linux----limpar log LINUX / Problema no disco
 
-> Acessando via bastian
+Acessando via bastian
 
-> cd /var/log
+cd /var/log
 
-> tar -cvzf apport.log.2024-01-23 apport.log
+tar -cvzf apport.log.2024-01-23 apport.log
 
-> truncate -s0 apport.log
+truncate -s0 apport.log
 
-> tar - cvzf syslog-2024-01-23 syslohh && truncate -s0
+tar - cvzf syslog-2024-01-23 syslohh && truncate -s0
 
-> history | grep journal
+history | grep journal
 
-> systemctl status walinuxagent = Mostra os ultimos erros
+systemctl status walinuxagent = Mostra os ultimos erros
 
->sudo su
+sudo su
 
->df -h
+df -h
 
->cd /var/log
+cd /var/log
 
->ls -alhs
+ls -alhs
 
->truncate -s0 __nomedoarquivo__
+truncate -s0 __nomedoarquivo__
 
->systemctl status walinuxagent
+systemctl status walinuxagent
 
 Verificar logs / tamanho do log / 
 
