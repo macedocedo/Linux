@@ -1,6 +1,6 @@
 # Linux
 
-# O estudo do Linux abrange diversos aspectos, desde a compreensão do sistema operacional até habilidades avançadas de administração de sistemas.
+O estudo do Linux abrange diversos aspectos, desde a compreensão do sistema operacional até habilidades avançadas de administração de sistemas.
 
 # História e Fundamentos
 O Linux é um sistema operacional de código aberto criado por Linus Torvalds em 1991. Baseado no Unix, é conhecido pela sua estabilidade, segurança e flexibilidade.
