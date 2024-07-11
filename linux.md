@@ -13,21 +13,6 @@ cls  = Limpar
 
 -----------------------------------\\--------------------------------------
 
-# Comandos Git
-
-git log = Verificar todos os commit
-
-git init = Inicializar o diretorio
-
-git add . = Adicionar todos arquivos do diretorio
-
-git commit -m "MSG" = Adicionando informação no respositorio do git
-
-git push origin -u main = Subir para o repositorio do github
-
-git brench = Verificar brench que voce está 
-
-
 # Comandos Linux
 
 $ = usuario comum
@@ -101,7 +86,6 @@ lsblk = informações disco
 rm -rf dpkg.log. < sempre verificar com outros analistas >
 
 -----------------------------------\\--------------------------------------
-
 
 # linux----limpar log LINUX / Problema no disco
 
